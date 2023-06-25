@@ -2,7 +2,7 @@
   "author": "Raheem Adebayo",
   "dark": true,
   "name": "Darkino",
-  "editorScheme": "/scheme/Raheem_Dark.icls",
+  "editorScheme": "/scheme/darkino.scheme.icls",
   "colors": {
     "bgDark0": "#141417",
     "bgDark1": "#1a1a1d",
