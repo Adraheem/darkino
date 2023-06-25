@@ -1,0 +1,69 @@
+{
+  "author": "Raheem Adebayo",
+  "dark": true,
+  "name": "Darkino",
+  "editorScheme": "/scheme/Raheem_Dark.icls",
+  "colors": {
+    "bgDark0": "#141417",
+    "bgDark1": "#1a1a1d",
+    "bgDark2": "#1E1F22",
+    "bgDark3": "#25252a",
+    "bgDark4": "#2a2a31",
+    "bgDark5": "#303037",
+    "primary": "#1147E7"
+  },
+  "ui": {
+    "Editor.background": "bgDark0",
+    "Tree": {
+      "background": "bgDark2",
+      "selectionInactiveBackground": "bgDark3",
+      "selectionBackground": "primary",
+      "rowHeight": 32
+    },
+    "Panel.background": "bgDark2",
+    "ScrollPane.background": "bgDark2",
+    "SidePanel.background": "bgDark2",
+    "WelcomeScreen.SidePanel.background": "bgDark3",
+    "WelcomeScreen.Details.background": "bgDark2",
+    "TabbedPane.background": "bgDark2",
+    "EditorTabs": {
+      "background": "bgDark3",
+      "underlinedTabBackground": "bgDark5"
+    },
+    "Plugins": {
+      "background": "bgDark2",
+      "SectionHeader.background": "bgDark4",
+      "lightSelectionBackground": "bgDark5",
+      "borderColor": "bgDark5",
+      "hoverBackground": "bgDark5"
+    },
+    "Button": {
+      "background": "transparent",
+      "default.focusColor": "primary"
+    },
+    "ToggleButton.background": "bgDark3",
+    "CheckBox.background": "transparent",
+    "RadioButton.background": "transparent",
+    "TextArea.background": "bgDark0",
+    "List.background": "bgDark2",
+    "Component.focusColor": "primary",
+    "TextField": {
+      "background": "bgDark3"
+    },
+    "Notification.background": "bgDark4",
+    "ToolWindow": {
+      "background": "bgDark2",
+      "Header.background": "bgDark4",
+      "Header.inactiveBackground": "bgDark2"
+    },
+    "ToolBar.background": "bgDark2",
+    "MainToolbar": {
+      "background": "bgDark2"
+    },
+    "Popup": {
+      "background": "bgDark4",
+      "Header.activeBackground": "bgDark5"
+    },
+    "Editor.SearchField.background": "bgDark2"
+  }
+}
