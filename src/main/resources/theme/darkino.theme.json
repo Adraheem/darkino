@@ -28,8 +28,13 @@
     "TabbedPane.background": "bgDark2",
     "EditorTabs": {
       "background": "bgDark3",
+      "underlineColor": "primary",
       "underlinedTabBackground": "bgDark5"
     },
+    "DefaultTabs.background": "bgDark3",
+    "EditorPane.background": "bgDark3",
+    "TextPane.inactiveBackground": "bgDark3",
+    "TextPane.background": "bgDark3",
     "Plugins": {
       "background": "bgDark2",
       "SectionHeader.background": "bgDark4",
