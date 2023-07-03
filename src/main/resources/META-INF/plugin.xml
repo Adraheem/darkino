@@ -4,6 +4,22 @@
     <name>Darkino</name>
     <vendor>adraheem</vendor>
 
+    <description>
+        Introducing Darkino: A Revolutionary Dark Theme for Intellij
+
+        Darkino is a cutting-edge dark theme designed to transform your IntelliJ experience into a visually stunning and eye-friendly environment. With its sleek and sophisticated design, Darkino sets a new standard for dark themes by delivering a darker color palette while prioritizing user comfort and reducing eye strain.
+
+        Immerse yourself in a world of deep, rich colors carefully crafted to provide optimal contrast and readability. Darkino's distinctive color scheme enhances code visibility, making it easier to focus on your work for extended periods without experiencing eye fatigue.
+
+        Not only does Darkino take care of your eyes, but it also enhances productivity by intelligently organizing the interface elements. The thoughtfully chosen syntax highlighting ensures that your code stands out, aiding comprehension and reducing distractions.
+
+        Customizable and versatile, Darkino allows you to fine-tune various aspects of the theme to suit your preferences. Tailor the font size, line spacing, and background contrast to create the perfect environment for your coding endeavors.
+
+        Darkino is compatible with a wide range of programming languages and frameworks supported by IntelliJ, making it the ideal choice for developers across various disciplines. Whether you're working on a web application, data analysis, or mobile development, Darkino will effortlessly adapt to your needs.
+
+        Experience the future of dark themes with Darkino. Upgrade your IntelliJ environment today and let your code shine in a visually stunning, eye-friendly, and immersive experience. Boost your productivity, comfort, and style with Darkino, the ultimate dark theme for IntelliJ.
+    </description>
+
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
